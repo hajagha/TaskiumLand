@@ -31,11 +31,11 @@ export default function Footer() {
 											<a>Privacy Policy</a>
 										</Link>
 									</li>
-									<li>
+									{/* <li>
 										<Link href="https://www.Taskium.app/privacy_policy/eula">
 											<a>License Agreement</a>
 										</Link>
-									</li>
+									</li> */}
 									
 								</ul>
 							</div>
