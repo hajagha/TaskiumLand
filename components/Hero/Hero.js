@@ -23,7 +23,7 @@ export default function Hero() {
 						</div>
 						<div className="col-xl-5 col-12 text-xl-end col-lg-10 offset-lg-1 offset-xl-0">
 							<div className="hero-mobile mt-5 mt-xl-0">
-								<img  src="img/frame-1.png" alt="taskium app" />
+								<img  src="img/Frame-1.png" alt="taskium app" />
 							</div>
 						</div>
 					</div>
